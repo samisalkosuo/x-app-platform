@@ -25,7 +25,7 @@ Open an issue.
 |image:images/icons/apod.jpg[APOD Icon,200] 
 |APOD
 |Astronomy Picture Of The Day - from NASA.
-|image:images/screenshots/apod1.png[APOD Icon,75%] 
+|image:images/screenshots/apod1.png[APOD Icon,50%] 
 
 |Cell in column 1, row 2
 |Location
