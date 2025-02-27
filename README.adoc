@@ -25,17 +25,12 @@ Open an issue.
 |image:images/icons/apod.jpg[APOD Icon,200] 
 |APOD
 |Astronomy Picture Of The Day - from NASA.
-|image:images/screenshots/apod1.png[APOD Icon,50%] 
+|image:images/screenshots/apod1.png[APOD screenshot,50%] 
 
-|Cell in column 1, row 2
+|image:images/icons/location.jpg[Location Icon,200] 
 |Location
-|Cell in column 2, row 1 
-|Cell in column 2, row 1 
-
-|Cell in column 1, row 3
-|Cell in column 2, row 3 
-|Cell in column 2, row 1 
-|Cell in column 2, row 1 
+|Current location latitude and longitude.
+|image:images/screenshots/location1.png[Location screenshot,50%] 
 
 |=== 
 
