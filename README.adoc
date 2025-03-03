@@ -110,7 +110,7 @@ link:privacy.adoc[Privacy policy].
 |image:images/icons/mqttclient.jpg[MQTT Client icon,200] 
 |MQTT Client
 |Test your MQTT with this client.
-|image:images/screenshots/eliza.png[MQTT Client,50%] 
+|image:images/screenshots/mqttclient.png[MQTT Client,50%] 
 
 |image:images/icons/mtrxrain.jpg[Mtrx Rain icon,200] 
 |Mtrx Rain
