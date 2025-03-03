@@ -1,0 +1,5 @@
+= X-A/P Privacy Policy
+
+I value your privacy, so I  do not collect, store, or share any personal information from our users. No form of registration or account creation is required to use the app, and none of the features within X-A/P transmit user data to our servers or third parties. Any data generated during usage (such as GPS coordinates or settings) remains strictly on your device and your own iCloud account.
+
+Because X-A/P does not retrieve or maintain personal data, I do not engage in analytics tracking, advertising profiling, or any other form of data processing. By downloading and using XAP, you acknowledge these terms and understand that your information is not captured or utilized in any capacity beyond your own device and your own iCloud account.

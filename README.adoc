@@ -14,6 +14,10 @@ Open an issue.
 
 The app is free and it include Full Access in-app purchase. Full Access will enable all features of current and all future x-apps.
 
+== Privacy policy
+
+link:privacy.adoc[Privacy policy].
+
 == X-Apps
 
 
