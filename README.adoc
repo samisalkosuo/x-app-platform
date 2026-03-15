@@ -120,5 +120,10 @@ link:privacy.adoc[Privacy policy].
 |Raining characters.
 |image:images/screenshots/mtrxrain.png[Mtrx Rain,50%] 
 
+|image:images/icons/timelapse.jpg[Time Lapse icon,200] 
+|Time Lapse
+|Time lapse camera.
+|image:images/screenshots/timelapse.png[Mtrx Rain,50%] 
+
 
 |=== 
